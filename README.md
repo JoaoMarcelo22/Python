@@ -40,25 +40,6 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 - Aplicação de funções personalizadas (`apply`, `map`, `lambda`)
 - Otimização de performance com Pandas
 
-## 📦 Instalação
-
-Para rodar os scripts localmente, siga os passos abaixo:
-
-```bash
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/Python-Pandas.git
-
-# Acesse a pasta do projeto
-cd Python-Pandas
-
-# Crie um ambiente virtual (opcional, mas recomendado)
-python -m venv venv
-source venv/bin/activate  # No Windows use: venv\Scripts\activate
-
-# Instale as dependências
-pip install -r requirements.txt
-```
-
 ## 📌 Como Contribuir
 
 1. Faça um **fork** do repositório.
