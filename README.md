@@ -5,8 +5,6 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 ## 📂 Estrutura do Repositório
 
 - `notebooks/` → Jupyter Notebooks com exemplos práticos.
-- `datasets/` → Conjunto de dados usados nos exemplos.
-- `scripts/` → Códigos Python organizados para diferentes operações.
 - `docs/` → Documentação e materiais complementares.
 
 ## 🚀 Tecnologias Utilizadas
@@ -16,20 +14,16 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 - 🔢 **NumPy** → Suporte para cálculos numéricos.
 - 📈 **Matplotlib & Seaborn** → Visualização de dados.
 - 🛠 **Jupyter Notebook** → Execução interativa dos códigos.
+- 🛠 **Google Colab Notebook** → Execução interativa dos códigos.
 
 ## 📚 Conteúdo
-
-### 1️⃣ Introdução ao Pandas
-- Estruturas de Dados: `Series` e `DataFrame`
-- Carregamento de Dados: `read_csv`, `read_excel`, `read_json`
-- Manipulação básica: seleção, filtros e agregações
 
 ### 2️⃣ Tratamento de Dados
 - Tratamento de valores nulos e duplicados
 - Transformações e limpeza de dados
 - Merge, Join e Concatenation de DataFrames
 
-### 3️⃣ Análise Estatística e Visualização
+### 3️⃣ Análise Exploratória de Dados
 - Estatísticas descritivas com Pandas
 - Gráficos com Matplotlib e Seaborn
 - Análise exploratória de dados (EDA)
