@@ -18,30 +18,21 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 
 ## 📚 Conteúdo
 
-### 2️⃣ Tratamento de Dados
+### 1️⃣ Tratamento de Dados
 - Tratamento de valores nulos e duplicados
 - Transformações e limpeza de dados
 - Merge, Join e Concatenation de DataFrames
 
-### 3️⃣ Análise Exploratória de Dados
+### 2️⃣ Análise Exploratória de Dados
 - Estatísticas descritivas com Pandas
 - Gráficos com Matplotlib e Seaborn
 - Análise exploratória de dados (EDA)
 
-### 4️⃣ Aplicações Avançadas
-- Manipulação de datas e strings
-- GroupBy e Pivot Tables
-- Aplicação de funções personalizadas (`apply`, `map`, `lambda`)
-- Otimização de performance com Pandas
-
-## 📌 Como Contribuir
-
-1. Faça um **fork** do repositório.
-2. Crie uma **branch** com a sua funcionalidade (`git checkout -b minha-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Faça um **push** para a branch (`git push origin minha-feature`).
-5. Abra um **Pull Request**.
-
-## 📜 Licença
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+### 3️⃣ Preparação e Engenharia de Atributos (Feature Engineering)
+#### 3.1 Preparação dos dados
+- Normalização / padronização
+- Encoding de variáveis categóricas (One-Hot, Label Encoding)
+- Tratamento mais refinado de outliers
+- Binning de variáveis numéricas (quantis, equal-width)
+- Balanceamento de classes (SMOTE, undersampling)
+#### 3.2. Criação de novas features
