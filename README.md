@@ -85,14 +85,14 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 - Deploy embarcado (apps, dispositivos)
 
 ### 8️⃣ Monitoramento e Manutenção
-#### Itens monitorados:
+#### 8.1. Itens monitorados:
 - Data drift (mudança nos dados)
 - Concept drift (mudança nos padrões)
 - Latência
 - Custo de infraestrutura
 - Acertos vs. erros ao longo do tempo
-#### Ações:
-- Retreinar o modelo
-- Ajustar pipelines de ETL
-- Revisar features
-- Rodar auditoria de fairness / bias
+#### 8.2. Ações:
+-- Retreinar o modelo
+-- Ajustar pipelines de ETL
+-- Revisar features
+-- Rodar auditoria de fairness / bias
