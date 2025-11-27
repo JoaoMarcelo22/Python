@@ -19,7 +19,7 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 ## 📚 Conteúdo
 
 <details>
-  <summary><strong>Fluxograma - Etapas</strong></summary>
+  <summary><strong>✨ Fluxograma - Etapas</strong></summary>
 
 <br>
 
