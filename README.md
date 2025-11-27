@@ -19,7 +19,7 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 ## 📚 Conteúdo
 
 <details>
-  <summary><strong>Fluxograma - Etapas</strong></summary>
+  ###<summary><strong>Fluxograma - Etapas</strong></summary>
 
 <br>
 
@@ -47,9 +47,7 @@ flowchart TD
     class B,C,D,E,F,G,H,I etapa;
 ```
 </details>
-
-
---
+<br><br><br>
 
 ### 1️⃣ Tratamento de Dados
 - Tratamento de valores nulos e duplicados
