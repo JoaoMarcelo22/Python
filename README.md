@@ -30,14 +30,14 @@ flowchart TD
     A([Fluxograma - Etapas])
 
     %% ===== FLUXO =====
-    A -> B([1 - Tratamento de Dados])
-    B -> C([2 - Análise Exploratória de Dados])
-    C -> D([3 - Preparação e Engenharia de Atributos])
-    D -> E([4 - Modelagem])
-    E -> F([5 - Treinamento do Modelo])
-    F -> G([6 - Validação e Métricas])
-    G -> H([7 - Deploy do Modelo])
-    H -> I([8 - Monitoramento e Manutenção])
+    A --> B([1 - Tratamento de Dados])
+    B --> C([2 - Análise Exploratória de Dados])
+    C --> D([3 - Preparação e Engenharia de Atributos])
+    D --> E([4 - Modelagem])
+    E --> F([5 - Treinamento do Modelo])
+    F --> G([6 - Validação e Métricas])
+    G --> H([7 - Deploy do Modelo])
+    H --> I([8 - Monitoramento e Manutenção])
 
     %% ===== ESTILOS =====
     classDef menu fill:#1F3B73,stroke:#0D1A33,color:white,font-weight:bold;
