@@ -20,14 +20,14 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 
 ```mermaid
 flowchart TD
-    A[📌 Repositório Python & Pandas] --> B[1️⃣ Tratamento de Dados<br/>• Limpeza<br/>• Transformações<br/>• Merge/Join]
-    B --> C[2️⃣ Análise Exploratória de Dados<br/>• Estatísticas<br/>• Gráficos<br/>• EDA]
-    C --> D[3️⃣ Preparação & Engenharia de Atributos<br/>• Normalização<br/>• Encoding<br/>• Novas Features<br/>• Seleção de Features]
-    D --> E[4️⃣ Modelagem<br/>• Regressão<br/>• Classificação<br/>• Séries Temporais<br/>• Deep Learning]
-    E --> F[5️⃣ Treinamento do Modelo<br/>• Métricas<br/>• Tuning<br/>• Tracking de Experimentos]
-    F --> G[6️⃣ Validação & Métricas<br/>• ROC/PR<br/>• Confusion Matrix<br/>• Drift<br/>• CV]
-    G --> H[7️⃣ Deploy do Modelo<br/>• API<br/>• Pipeline<br/>• Batch<br/>• Nuvem]
-    H --> I[8️⃣ Monitoramento & Manutenção<br/>• Drift<br/>• Fairness<br/>• Retreinamento]
+    A[📌 Repositório Python & Pandas] --> B[1️⃣ Tratamento de Dados]
+    B --> C[2️⃣ Análise Exploratória de Dados]
+    C --> D[3️⃣ Preparação & Engenharia de Atributos]
+    D --> E[4️⃣ Modelagem]
+    E --> F[5️⃣ Treinamento do Modelo]
+    F --> G[6️⃣ Validação & Métricas]
+    G --> H[7️⃣ Deploy do Modelo]
+    H --> I[8️⃣ Monitoramento & Manutenção]
 ```
 
 ---
