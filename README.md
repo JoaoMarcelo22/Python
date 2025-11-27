@@ -75,7 +75,7 @@ flowchart TD
   - Importância de features (árvores)
   - PCA, UMAP (redução de dimensionalidade)
 
-### 4️⃣ Modelagem (Machine Learning / Estatística)
+### 4️⃣ Modelagem (Machine Learning)
 - #### 4.1. Escolha dos algoritmos
   - Regressões (Linear, Ridge, Lasso)
   - Classificação (XGBoost, Random Forest, Logistic Regression)
