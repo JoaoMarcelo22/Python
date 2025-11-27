@@ -22,7 +22,7 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 flowchart TD
 
     %% ===== MENU PRINCIPAL =====
-    A([Repositório Python / Pandas])
+    A([Fluxograma - Etapas])
 
     %% ===== FLUXO =====
     A --> B([1 - Tratamento de Dados])
