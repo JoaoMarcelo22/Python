@@ -22,12 +22,12 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 flowchart TD
     A[📌 Repositório Python & Pandas] --> B[1️⃣ Tratamento de Dados]
     B --> C[2️⃣ Análise Exploratória de Dados]
-    C --> D[3️⃣ Preparação & Engenharia de Atributos]
+    C --> D[3️⃣ Preparação e Engenharia de Atributos]
     D --> E[4️⃣ Modelagem]
     E --> F[5️⃣ Treinamento do Modelo]
-    F --> G[6️⃣ Validação & Métricas]
+    F --> G[6️⃣ Validação e Métricas]
     G --> H[7️⃣ Deploy do Modelo]
-    H --> I[8️⃣ Monitoramento & Manutenção]
+    H --> I[8️⃣ Monitoramento e Manutenção]
 ```
 
 ---
