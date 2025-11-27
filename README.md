@@ -20,37 +20,19 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 
 ```mermaid
 flowchart TD
-    A[Repositório Python / Pandas] --> B[1️⃣ - Tratamento de Dados]
-    B --> C[2️⃣ - Análise Exploratória de Dados]
-    C --> D[3️⃣ - Preparação e Engenharia de Atributos]
-    D --> E[3️⃣ - Modelagem]
-    E --> F[5️⃣ - Treinamento do Modelo]
-    F --> G[6️⃣ - Validação e Métricas]
-    G --> H[7️⃣ - Deploy do Modelo]
-    H --> I[8️⃣ - Monitoramento e Manutenção]
-
-    %% === Estilos dos nós ===
-    classDef inicio fill:#4C74E6,stroke:#2C4BA0,color:white,font-weight:bold;
-    classDef etapa fill:#7FB3FF,stroke:#4477CC,color:#000;
-
-    class A inicio;
-    class B,C,D,E,F,G,H,I etapa;
-```
-```mermaid
-flowchart TD
 
     %% ===== MENU PRINCIPAL =====
     A([Repositório Python / Pandas])
 
     %% ===== FLUXO =====
-    A --> B((1 - Tratamento de Dados))
-    B --> C((2 - Análise Exploratória de Dados))
-    C --> D((3 - Preparação e Engenharia de Atributos))
-    D --> E((4 - Modelagem))
-    E --> F((5 - Treinamento do Modelo))
-    F --> G((6 - Validação e Métricas))
-    G --> H((7 - Deploy do Modelo))
-    H --> I((8 - Monitoramento e Manutenção))
+    A --> B(1 - Tratamento de Dados)
+    B --> C(2 - Análise Exploratória de Dados)
+    C --> D(3 - Preparação e Engenharia de Atributos)
+    D --> E(4 - Modelagem)
+    E --> F(5 - Treinamento do Modelo)
+    F --> G(6 - Validação e Métricas)
+    G --> H(7 - Deploy do Modelo)
+    H --> I(8 - Monitoramento e Manutenção)
 
     %% ===== ESTILOS =====
     classDef menu fill:#1F3B73,stroke:#0D1A33,color:white,font-weight:bold;
