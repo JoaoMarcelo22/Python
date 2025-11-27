@@ -18,6 +18,11 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 
 ## 📚 Conteúdo
 
+<details>
+  <summary><strong>Fluxograma - Etapas</strong></summary>
+
+<br>
+
 ```mermaid
 flowchart TD
 
@@ -41,6 +46,7 @@ flowchart TD
     class A menu;
     class B,C,D,E,F,G,H,I etapa;
 ```
+</details>
 
 
 ---
