@@ -4,7 +4,7 @@ Este repositório contém scripts e exemplos de manipulação de dados utilizand
 
 ## 📂 Estrutura do Repositório
 
-- `notebooks/` → Jupyter Notebooks com exemplos práticos.
+- `notebooks/` →  Notebooks Jupyter e Colab.
 - `docs/` → Documentação e materiais complementares.
 
 ## 🚀 Tecnologias Utilizadas
